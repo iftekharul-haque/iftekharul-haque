@@ -5,21 +5,20 @@
 - 📫 How to reach me ...How to reach me - you don't need to.
 
 <!---
-<!-- The text field -->
+<!--
 <input type="text" value="Hello World" id="myInput">
 
-<button onclick="myFunction()">Copy text</button>
+<button onclick="myFunction
 /* Get the text field */
   vadocument.getElementById("myInput");
 
   /* Select the text field */
   * For mobile devices */
 
-   /* Copy the text inside the text field */
+   
   navigator.clipboard.writeText(copyText.value);
 
-  /* Alert the copied text */
-  alert("Copied the text: " + copyText.value);
+ 
 }.tooltip {
   position: relative;
   display: inline-block;
